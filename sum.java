@@ -2,8 +2,8 @@ class Main {
 
   public static void main(String[] args) {
     
-    int f = 10;
-    int s = 20;
+    int f = 50;
+    int s = 10;
 
     System.out.println(f + s);
   }
